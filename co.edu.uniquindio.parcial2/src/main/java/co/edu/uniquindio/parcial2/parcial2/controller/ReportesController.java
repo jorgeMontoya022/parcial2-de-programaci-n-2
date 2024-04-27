@@ -2,10 +2,10 @@ package co.edu.uniquindio.parcial2.parcial2.controller;
 
 import co.edu.uniquindio.parcial2.parcial2.modelFactory.ModelFactory;
 
-public class AdministracionController {
+public class ReportesController {
     ModelFactory modelFactory;
 
-    public AdministracionController() {
+    public ReportesController() {
         modelFactory = ModelFactory.getInstance();
     }
 

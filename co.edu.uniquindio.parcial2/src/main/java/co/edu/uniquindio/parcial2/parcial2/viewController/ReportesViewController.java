@@ -3,7 +3,7 @@ package co.edu.uniquindio.parcial2.parcial2.viewController;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-import co.edu.uniquindio.parcial2.parcial2.controller.AdministracionController;
+import co.edu.uniquindio.parcial2.parcial2.controller.ReportesController;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -11,8 +11,8 @@ import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 
-public class AdministracionViewController {
-    AdministracionController administracionController;
+public class ReportesViewController {
+    ReportesController reportesController;
 
     @FXML
     private ResourceBundle resources;
@@ -86,26 +86,26 @@ public class AdministracionViewController {
 
     @FXML
     void initialize() {
-        administracionController = new AdministracionController();
+        reportesController = new ReportesController();
     }
 
     private void mostrarClientesMasPrestamos() {
         if(!txtRangoClienteMasPrestamos.getText().isEmpty()){
-            String clientesConMasPrestamos = administracionController.obtenerClientesConMasPrestamos(txtRangoClienteMasPrestamos.getText());
+            String clientesConMasPrestamos = reportesController.obtenerClientesConMasPrestamos(txtRangoClienteMasPrestamos.getText());
             txtResultadoClientesMasPrestamos.setText(clientesConMasPrestamos);
         }
     }
 
     private void mostrarObjetoPorCodigo() {
         if(!txtCodigoObjeto.getText().isEmpty()){
-            String objetoPorCodigo = administracionController.obtenerObjetoPorCodigo(txtCodigoObjeto.getText());
+            String objetoPorCodigo = reportesController.obtenerObjetoPorCodigo(txtCodigoObjeto.getText());
             txtResultadoObjetoPorCodigo.setText(objetoPorCodigo);
         }
     }
 
     private void mostrarObjetosMasPrestado() {
         if(!txtRangoObjetosMasPrestados.getText().isEmpty()){
-            String objetosMasPrestados = administracionController.obtenerObjetosPrestados(txtRangoObjetosMasPrestados.getText());
+            String objetosMasPrestados = reportesController.obtenerObjetosPrestados(txtRangoObjetosMasPrestados.getText());
             txtResultadoObjetosMasPrestados.setText(objetosMasPrestados);
         }
     }
