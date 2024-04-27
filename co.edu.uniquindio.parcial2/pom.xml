@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                co.edu.uniquindio.parcial2.parcial2/co.edu.uniquindio.parcial2.parcial2.HelloApplication
+                                co.edu.uniquindio.parcial2.parcial2/co.edu.uniquindio.parcial2.parcial2.PrestamoUqApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

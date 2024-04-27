@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ded4c67-b5a5-4a80-9d23-a69f73873b56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/java/co/edu/uniquindio/parcial2/parcial2/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/java/co/edu/uniquindio/parcial2/parcial2/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/java/co/edu/uniquindio/parcial2/parcial2/controller/PrestamoObjetoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/java/co/edu/uniquindio/parcial2/parcial2/model/PrestamoUQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/java/co/edu/uniquindio/parcial2/parcial2/model/PrestamoUQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/java/co/edu/uniquindio/parcial2/parcial2/modelFactory/ModelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/java/co/edu/uniquindio/parcial2/parcial2/modelFactory/ModelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/java/co/edu/uniquindio/parcial2/parcial2/viewController/PrestamoObjetoViewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/resources/co/edu/uniquindio/parcial2/parcial2/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/src/main/resources/co/edu/uniquindio/parcial2/parcial2/prestamoObjeto.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/target/classes/co/edu/uniquindio/parcial2/parcial2/HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/target/classes/co/edu/uniquindio/parcial2/parcial2/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/target/classes/co/edu/uniquindio/parcial2/parcial2/controller/PrestamoObjetoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/target/classes/co/edu/uniquindio/parcial2/parcial2/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/target/classes/co/edu/uniquindio/parcial2/parcial2/modelFactory/ModelFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/target/classes/co/edu/uniquindio/parcial2/parcial2/modelFactory/ModelFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/target/classes/co/edu/uniquindio/parcial2/parcial2/prestamoObjeto.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.parcial2/target/classes/co/edu/uniquindio/parcial2/parcial2/viewController/PrestamoObjetoViewController.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ffPpmVOkuB1EEF9ue4XGa4FJ15" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.PrestamoApplication.executor": "Run",
+    "Application.PrestamoUqApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "origin/develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Documentos/Repositorios/parcial2-de-programaci-n-2/co.edu.uniquindio.parcial2/src/main/resources/co/edu/uniquindio/parcial2/parcial2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\OneDrive\Documentos\Repositorios\parcial2-de-programaci-n-2\co.edu.uniquindio.parcial2\src\main\resources\co\edu\uniquindio\parcial2\parcial2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.edu.uniquindio.parcial2.parcial2.viewController" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PrestamoUqApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquindio.parcial2.parcial2.PrestamoUqApplication" />
+      <module name="parcial2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquindio.parcial2.parcial2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrestamoUqApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ded4c67-b5a5-4a80-9d23-a69f73873b56" name="Changes" comment="" />
+      <created>1714189348726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714189348726</updated>
+      <workItem from="1714189352927" duration="7155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -108,7 +108,5 @@ public class PrestamoUQ {
 
         return reporte;
     }
-
-
 }
 

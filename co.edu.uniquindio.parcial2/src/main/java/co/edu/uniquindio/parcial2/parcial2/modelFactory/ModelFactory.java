@@ -153,7 +153,6 @@ public class ModelFactory {
         prestamo3.getListaObjetosAsociados().add(prestamoUQ.getListaObjetos().get(1));
         prestamo3.getListaObjetosAsociados().add(prestamoUQ.getListaObjetos().get(2));
 
-
         Prestamo prestamo4 = new Prestamo();
         prestamo4.setNumeroPrestamo("PR-4");
         prestamo4.setFechaPrestamo(LocalDate.of(2023, 8, 2));
@@ -164,10 +163,6 @@ public class ModelFactory {
         prestamo4.getListaObjetosAsociados().add(prestamoUQ.getListaObjetos().get(3));
         prestamo4.getListaObjetosAsociados().add(prestamoUQ.getListaObjetos().get(1));
 
-
-
-
-
         prestamoUQ.getListaPrestamos().add(prestamo1);
         prestamoUQ.getListaPrestamos().add(prestamo2);
         prestamoUQ.getListaPrestamos().add(prestamo3);
@@ -175,7 +170,6 @@ public class ModelFactory {
 
 
     }
-
 
     public String obtenerObjetosPrestados(String rango) {
         return prestamoUQ.obtenerObjetosPrestados(rango);
